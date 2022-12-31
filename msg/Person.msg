@@ -1,2 +1,1 @@
-string name
-uint8 age
+uint16[] answer
